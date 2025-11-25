@@ -29,7 +29,7 @@ O objetivo é construir um modelo preditivo altamente preciso para precificaçã
 ## Resultados Finais e Insights
 
 O **XGBoost Regressor Otimizado** foi o modelo selecionado, alcançando uma redução de mais de 40% no erro de previsão em relação ao *baseline* de Ridge.
-
+|-|-|-|
 | :--- | :--- | :--- |
 | **Modelo Selecionado** | XGBoost Regressor Otimizado | Configurado com `lr=0.05`, `max_depth=3`, `n_estimators=300`. |
 | **RMSE (Erro Médio)** | **$14,046.04$** | Erro médio de previsão na escala original (em dólares). |
